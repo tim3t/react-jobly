@@ -1,6 +1,24 @@
 .Homepage {
   /* put around the vertical center of page */
+  font-family:Arial, Helvetica, sans-serif;
   height: calc(100vh - 150px);
   display: flex;
   align-items: center;
+  border: solid 10px rgba(68, 0, 194, 0.528);
+}
+
+.Homepage h1 {
+  text-transform: uppercase;
+  color: rgb(77, 0, 201);
+  text-shadow: 3px 3px 2px grey;
+}
+
+.lead {
+  text-transform: uppercase;
+  color: rgb(84, 34, 164);
+}
+
+.btn {
+  box-shadow: 2px 2px 2px grey;
+  background-color: rgb(126, 34, 0);
 }

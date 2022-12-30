@@ -7,3 +7,12 @@
   font-weight: bold;
   color: black;
 }
+
+.navbar-brand {
+  color:rgb(44, 6, 98);
+  text-transform: uppercase;
+}
+
+.nav-link {
+  color: rgb(126, 34, 0);
+}
